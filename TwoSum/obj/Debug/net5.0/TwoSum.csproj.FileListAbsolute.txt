@@ -1,0 +1,16 @@
+E:\projects\TwoSum\bin\Debug\net5.0\TwoSum.exe
+E:\projects\TwoSum\bin\Debug\net5.0\TwoSum.deps.json
+E:\projects\TwoSum\bin\Debug\net5.0\TwoSum.runtimeconfig.json
+E:\projects\TwoSum\bin\Debug\net5.0\TwoSum.runtimeconfig.dev.json
+E:\projects\TwoSum\bin\Debug\net5.0\TwoSum.dll
+E:\projects\TwoSum\bin\Debug\net5.0\ref\TwoSum.dll
+E:\projects\TwoSum\bin\Debug\net5.0\TwoSum.pdb
+E:\projects\TwoSum\obj\Debug\net5.0\TwoSum.csprojAssemblyReference.cache
+E:\projects\TwoSum\obj\Debug\net5.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfoInputs.cache
+E:\projects\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfo.cs
+E:\projects\TwoSum\obj\Debug\net5.0\TwoSum.csproj.CoreCompileInputs.cache
+E:\projects\TwoSum\obj\Debug\net5.0\TwoSum.dll
+E:\projects\TwoSum\obj\Debug\net5.0\ref\TwoSum.dll
+E:\projects\TwoSum\obj\Debug\net5.0\TwoSum.pdb
+E:\projects\TwoSum\obj\Debug\net5.0\TwoSum.genruntimeconfig.cache
