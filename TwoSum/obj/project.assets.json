@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\mina-\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\TwoSum\\TwoSum.csproj",
+      "projectUniqueName": "D:\\projects\\for_test\\TwoSumProblem\\TwoSum\\TwoSum.csproj",
       "projectName": "TwoSum",
-      "projectPath": "E:\\projects\\TwoSum\\TwoSum.csproj",
+      "projectPath": "D:\\projects\\for_test\\TwoSumProblem\\TwoSum\\TwoSum.csproj",
       "packagesPath": "C:\\Users\\mina-\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\TwoSum\\obj\\",
+      "outputPath": "D:\\projects\\for_test\\TwoSumProblem\\TwoSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\mina-\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://aka.ms/maui-preview/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

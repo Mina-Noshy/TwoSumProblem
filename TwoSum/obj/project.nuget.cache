@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HMXDdw6WwOnyYllEBwTh9wHL74tmfvGm6pPxme1i4Fs58ad96IV8nQizE6sJkVUyVqcGATCAXtiTm2G/zWA/0g==",
+  "dgSpecHash": "7QPkDChlKbcVlVEtZPqGBiD+ixzWZ0vqcYY3Su3K14u14Y0TaK53uAndTMMZKUk7D5SWmhrRuEUXwTsQB3SW2A==",
   "success": true,
-  "projectFilePath": "E:\\projects\\TwoSum\\TwoSum.csproj",
+  "projectFilePath": "D:\\projects\\for_test\\TwoSumProblem\\TwoSum\\TwoSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
