@@ -1,2 +1,2 @@
 # TwoSumProblem
-solve two sum problem in C#
+solve two sum problem
